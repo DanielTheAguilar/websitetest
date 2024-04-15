@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  padding-top: 150px;
+  padding-top: 350px;
    font-family: "Times New Roman", Arial, sans-serif;
   background-image: url("Me.jpg");  /* Replace with path to your background image */
   background-size: cover;
@@ -22,7 +22,7 @@ header img {
 }
 
 nav {
-  background-color: black;
+  background-color: #696969;
   padding: 10px;
   text-align: center;
 }
@@ -61,7 +61,7 @@ section {
 }
 
 footer {
-  background-color: black;
+  background-color: #696969;
   padding: 10px;
   text-align: center;
 }
