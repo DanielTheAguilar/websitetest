@@ -32,7 +32,7 @@ nav a {
   position: absolute;  /* Enables absolute positioning */
   top: 10px;  /* Adjust top position as needed */
   left: 10px;  /* Adjust left position as needed */
-  color: black;
+  color: white;
   text-decoration: none;
   padding: 10px;
   display: inline-block;
