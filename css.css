@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  padding-top: 350px;
+  padding-top: 500px;
    font-family: "Times New Roman", Arial, sans-serif;
   background-image: url("Me.jpg");  /* Replace with path to your background image */
   background-size: cover;
@@ -25,6 +25,7 @@ nav {
   background-color: #696969;
   padding: 10px;
   text-align: center;
+  gap: 10px;  /* Adjust the value as needed */
 }
 
 nav a {
