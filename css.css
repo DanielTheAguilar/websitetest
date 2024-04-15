@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  padding-top: 150px;
    font-family: "Times New Roman", Arial, sans-serif;
   background-image: url("Me.jpg");  /* Replace with path to your background image */
   background-size: cover;
