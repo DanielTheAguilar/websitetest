@@ -28,10 +28,12 @@ nav {
 }
 
 nav a {
-  color: black;
   text-decoration: none;
-  padding: 10px 20px; /* Adjust padding as needed */
-  display: inline-block;
+  display: flex;  /* Enables flexbox layout */
+  justify-content: flex-start;  /* Aligns items to the left */
+  align-items: center;  /* Aligns items vertically centered */
+  background-color: transparent;  /* Removes background color */
+  padding: 100px;  /* You can adjust padding if needed */
 }
 
 nav a:hover {
